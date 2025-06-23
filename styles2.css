@@ -1,0 +1,18 @@
+button{
+    background-color:beige;
+    color:blue;
+    border-radius: 30px;
+    padding: 10px 5px;
+    border-color:grey;
+
+}
+button:hover{
+    background-color: brown;
+    color:aqua;
+}
+a{
+    color:green;   
+}
+a:hover{
+    color:bisque;
+}
